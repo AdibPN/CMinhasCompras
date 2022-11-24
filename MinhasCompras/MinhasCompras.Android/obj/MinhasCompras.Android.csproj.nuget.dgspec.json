@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\MinhasCompras\\MinhasCompras\\MinhasCompras.Android\\MinhasCompras.Android.csproj": {}
+    "C:\\Users\\apaul\\OneDrive\\Área de Trabalho\\MinhasCompras\\MinhasCompras\\MinhasCompras.Android\\MinhasCompras.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\MinhasCompras\\MinhasCompras\\MinhasCompras.Android\\MinhasCompras.Android.csproj": {
+    "C:\\Users\\apaul\\OneDrive\\Área de Trabalho\\MinhasCompras\\MinhasCompras\\MinhasCompras.Android\\MinhasCompras.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\MinhasCompras\\MinhasCompras\\MinhasCompras.Android\\MinhasCompras.Android.csproj",
+        "projectUniqueName": "C:\\Users\\apaul\\OneDrive\\Área de Trabalho\\MinhasCompras\\MinhasCompras\\MinhasCompras.Android\\MinhasCompras.Android.csproj",
         "projectName": "MinhasCompras.Android",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\MinhasCompras\\MinhasCompras\\MinhasCompras.Android\\MinhasCompras.Android.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\MinhasCompras\\MinhasCompras\\MinhasCompras.Android\\obj\\",
+        "projectPath": "C:\\Users\\apaul\\OneDrive\\Área de Trabalho\\MinhasCompras\\MinhasCompras\\MinhasCompras.Android\\MinhasCompras.Android.csproj",
+        "packagesPath": "C:\\Users\\apaul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\apaul\\OneDrive\\Área de Trabalho\\MinhasCompras\\MinhasCompras\\MinhasCompras.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\apaul\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid12.0": {
             "projectReferences": {
-              "C:\\Users\\Usuario\\Desktop\\MinhasCompras\\MinhasCompras\\MinhasCompras\\MinhasCompras.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Desktop\\MinhasCompras\\MinhasCompras\\MinhasCompras\\MinhasCompras.csproj"
+              "C:\\Users\\apaul\\OneDrive\\Área de Trabalho\\MinhasCompras\\MinhasCompras\\MinhasCompras\\MinhasCompras.csproj": {
+                "projectPath": "C:\\Users\\apaul\\OneDrive\\Área de Trabalho\\MinhasCompras\\MinhasCompras\\MinhasCompras\\MinhasCompras.csproj"
               }
             }
           }
@@ -54,20 +54,20 @@
         }
       }
     },
-    "C:\\Users\\Usuario\\Desktop\\MinhasCompras\\MinhasCompras\\MinhasCompras\\MinhasCompras.csproj": {
+    "C:\\Users\\apaul\\OneDrive\\Área de Trabalho\\MinhasCompras\\MinhasCompras\\MinhasCompras\\MinhasCompras.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\MinhasCompras\\MinhasCompras\\MinhasCompras\\MinhasCompras.csproj",
+        "projectUniqueName": "C:\\Users\\apaul\\OneDrive\\Área de Trabalho\\MinhasCompras\\MinhasCompras\\MinhasCompras\\MinhasCompras.csproj",
         "projectName": "MinhasCompras",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\MinhasCompras\\MinhasCompras\\MinhasCompras\\MinhasCompras.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\MinhasCompras\\MinhasCompras\\MinhasCompras\\obj\\",
+        "projectPath": "C:\\Users\\apaul\\OneDrive\\Área de Trabalho\\MinhasCompras\\MinhasCompras\\MinhasCompras\\MinhasCompras.csproj",
+        "packagesPath": "C:\\Users\\apaul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\apaul\\OneDrive\\Área de Trabalho\\MinhasCompras\\MinhasCompras\\MinhasCompras\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\apaul\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -76,7 +76,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -120,12 +119,11 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
