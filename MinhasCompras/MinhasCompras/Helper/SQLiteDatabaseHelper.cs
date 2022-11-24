@@ -23,25 +23,31 @@ namespace MinhasCompras.Helper
             return _conn.InsertAsync(p);
         }
 
-        public void update(Produto p)
+        public Task<List<Produto>> Update(Produto p)
         {
+            string sql = "UPDATE Produto SET Nome = ?, Qnt = ?, Preco = ? WHERE id = ?";
+
+            return _conn.QueryAsync<Produto>(sql, p.Nome, p.Qnt, p.Preco, p.Id);
+        }
+
+      
+
+        public Task <List<Produto>> GetAll()
+        {
+            return _conn.Table<Produto>().ToListAsync();
 
         }
 
-        public Task<Produto> getById(int id)
+        public Task<int> Delete(int id)
         {
-            return new Produto();
+            return _conn.Table<Produto>().DeleteAsync(i => i.Id == id);
         }
 
-        public Task <List<Produto>> getAll()
+        public Task<List<Produto>> Search(string q)
         {
-             
+            string sql = "SELECT * FROM Produto WHERE nome LIKE '%" + q + "%'";
 
-        }
-
-        public void delete(int id)
-        {
-
+            return _conn.QueryAsync<Produto>(sql);
         }
     }
 }

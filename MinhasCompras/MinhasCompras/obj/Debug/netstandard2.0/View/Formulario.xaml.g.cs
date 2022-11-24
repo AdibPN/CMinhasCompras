@@ -8,12 +8,12 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("MinhasCompras.App.xaml", "App.xaml", typeof(global::MinhasCompras.View.Formulario))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("MinhasCompras.View.Formulario.xaml", "View/Formulario.xaml", typeof(global::MinhasCompras.View.Formulario))]
 
 namespace MinhasCompras.View {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("App.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("View\\Formulario.xaml")]
     public partial class Formulario : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
