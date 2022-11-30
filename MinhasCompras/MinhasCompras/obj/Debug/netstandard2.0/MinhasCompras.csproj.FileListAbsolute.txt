@@ -1,0 +1,9 @@
+C:\Users\Usuario\Desktop\MinhasCompras\MinhasCompras\MinhasCompras\obj\Debug\netstandard2.0\MinhasCompras.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\MinhasCompras\MinhasCompras\MinhasCompras\obj\Debug\netstandard2.0\MinhasCompras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\MinhasCompras\MinhasCompras\MinhasCompras\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Usuario\Desktop\MinhasCompras\MinhasCompras\MinhasCompras\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Usuario\Desktop\MinhasCompras\MinhasCompras\MinhasCompras\obj\Debug\netstandard2.0\View\Formulario.xaml.g.cs
+C:\Users\Usuario\Desktop\MinhasCompras\MinhasCompras\MinhasCompras\obj\Debug\netstandard2.0\View\Listagem.xaml.g.cs
+C:\Users\Usuario\Desktop\MinhasCompras\MinhasCompras\MinhasCompras\obj\Debug\netstandard2.0\MinhasCompras.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\MinhasCompras\MinhasCompras\MinhasCompras\obj\Debug\netstandard2.0\MinhasCompras.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\MinhasCompras\MinhasCompras\MinhasCompras\obj\Debug\netstandard2.0\MinhasCompras.csproj.CoreCompileInputs.cache
